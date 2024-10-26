@@ -1,1 +1,61 @@
 /* your code here */
+.content{
+	background: black;
+	color: white;
+}
+.top{
+	border: 1px solid white;
+	height: 10vh;
+	
+}
+.logo-details{
+
+}
+
+.link-boxes{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: none;
+	width: 100%;
+	
+}
+.link-boxes-section{
+	
+	display: flex;
+	flex-direction: column;
+	margin: 5% 5% 5% 5%;
+	width: 20%;
+	min-width: 130px;
+}
+.home-link-item{
+	margin-top: 5px;
+	color: white;
+	text-decoration: none;
+}
+.services-link-item{
+	margin-top: 5px;
+	color: white;
+	text-decoration: none;
+}
+
+.otherservices-link-item{
+	margin-top: 5px;
+	color: white;
+	text-decoration: none;
+}
+
+h1{
+	margin-top: 5px;
+	margin-bottom: 0px;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	
+}
+
+.contact-link-item{
+	margin-top:5px;
+	color: lightgray;
+	text-decoration: none;
+}
