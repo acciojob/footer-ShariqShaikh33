@@ -8,6 +8,12 @@
 	height: 10vh;
 	
 }
+
+.media-icons{
+	display: flex;
+	flex-direction: rows;
+}
+
 .logo-details{
 
 }
